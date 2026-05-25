@@ -79,4 +79,25 @@ This repository directory tracks my end-to-end AI application blueprints across 
 
 ---
 
+---
+
+## 🎓 Part 4: Certification Runway & APEL Matrix
+*Status: 🔄 Active Technical & Academic Advancement Track*
+
+> **THE APEL PHILOSOPHY: VALIDATION, NOT FOUNDATION**
+> I am actively progressing through a dual-track advancement matrix. My technical certifications (Google AI, Cloud Digital Leader) and academic milestones (BBA via AeU APEL-Q) serve not as a foundational learning phase, but as a formal mapping of my existing operational tooling. 
+>
+> These milestones officially validate my decades of cross-functional leadership and my deep understanding of the enterprise digital shift. The process ensures I can fluently translate real-world pattern recognition—the core of my career—into the precise technical constraints required for modern cloud AI architecture.
+
+### 🛤️ Current Calibration & Execution Velocity
+This track represents the formal bridging of my operational expertise into rigid cloud infrastructure, executed with a deliberate focus on high-velocity deployment. 
+
+* [x] **Foundational Calibration:** Google AI Essentials *(Completed: 30-Day Sprint).*
+* [x] **Applied Architectural Velocity:** Concurrent engineering and deployment of this GitHub System Architecture Portfolio (Case Studies 1-8), matching the precise 30-day certification timeline.
+* [ ] **Model Alignment & Cloud Infrastructure:** Google Cloud AI Professional Certification *(Currently 50% Complete).*
+* [ ] **Strategic Cloud Architecture:** Google Cloud Digital Leader *(Upcoming).*
+* [ ] **Formal Experiential Validation:** Executive BBA via Asia e University (AeU) APEL-Q track *(Upcoming).*
+
+*(This matrix tracks the ongoing translation of my Accreditation of Prior Experiential Learning (APEL) into certified cloud architecture capabilities and formal academic credentialing.)*
+
 📬 Let's optimize your operations. Connect with me to discuss systemic risk mitigation, agentic workflow architecture, or building production-ready AI guardrails.
