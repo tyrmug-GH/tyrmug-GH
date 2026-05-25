@@ -34,7 +34,6 @@ You are the master orchestration logic for an automotive capital optimization en
 2. Production Multi-Scenario Test Input
 JSON
 {
-  {
   "AGENT_A_LEDGER": {
     "asset_id": "VIN-9982-ASSET-X",
     "interest_accrued_usd": 1250.00,
@@ -47,12 +46,31 @@ JSON
     "physical_delivery_ready": true
   }
 }
-  "AGENT_B_DOC_STATUS": {
-    "title_transfer_signed": true,
-    "bank_financing_approval": false,
-    "physical_delivery_ready": true
-  }
+3. Verified Deterministic JSON Output
+JSON
+{
+  "asset_id": "VIN-9982-ASSET-X",
+  "optimization_status": "HOLD",
+  "financial_metrics": {
+    "accrued_interest_usd": 1250.0,
+    "daily_burn_rate": 45.0,
+    "margin_erosion_pct": 0.88
+  },
+  "validation_state": {
+    "docs_complete": false,
+    "signature_check": "FAILED"
+  },
+  "action_log": [
+    "INTERVENTION: Financing approval missing. Release gated to prevent capital loss.",
+    "RISK: Margin erosion approaching 90% threshold."
+  ]
 }
+4. Edge-Case Validation & Architecture Notes
+Temporal Coupling: The engine effectively couples financial state (interest) to procedural state (documents), bridging the gap between Finance and Operations silos.
+
+HITL Intercept: The system does not attempt to "autocorrect" a missing signature. It moves immediately to HOLD status, enforcing human intervention before any capital-intensive handover occurs.
+
+Deterministic Risk Response: By isolating the 90% margin erosion threshold, the logic ensures that risk is addressed algorithmically rather than relying on delayed reporting.}
 3. Verified Deterministic JSON Output
 JSON
 {
