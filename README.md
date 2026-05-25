@@ -80,9 +80,3 @@ This repository directory tracks my end-to-end AI application blueprints across 
 ---
 
 📬 Let's optimize your operations. Connect with me to discuss systemic risk mitigation, agentic workflow architecture, or building production-ready AI guardrails.
-* **Foundational Frameworks:** Gemini 1.5 Pro, Agentic Workflow DAGs, Prompt Engineering (Few-Shot, Chain-of-Thought)
-* **Legacy Technical Logic:** Foundational C++ structural logic conceptualization
-
----
-
-📬 Let's optimize your operations. Connect with me to discuss systemic risk mitigation, agentic workflow architecture, or building production-ready AI guardrails.
