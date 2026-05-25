@@ -1,6 +1,3 @@
-Case Study 6: Dynamic Capital Risk & Asset Optimization Multi-Agent Engine
-1. System Prompt Blueprint
-Markdown
 # SYSTEM INSTRUCTION: DYNAMIC CAPITAL RISK OPTIMIZATION GOVERNOR (CS-6)
 
 ## ROLE & CONTEXT
@@ -30,35 +27,7 @@ You are the master orchestration logic for an automotive capital optimization en
     "signature_check": "PASSED | FAILED"
   },
   "action_log": ["STRING"]
-}
-2. Production Multi-Scenario Test Input
-JSON
-{
-  "AGENT_A_LEDGER": {
-    "asset_id": "VIN-9982-ASSET-X",
-    "interest_accrued_usd": 1250.00,
-    "daily_burn_rate_usd": 45.00,
-    "margin_remaining_pct": 0.12
-  },
-  "AGENT_B_DOC_STATUS": {
-    "title_transfer_signed": true,
-    "bank_financing_approval": false,
-    "physical_delivery_ready": true
-  }
-}
-3. Verified Deterministic JSON Output
-JSON
-{
-  "asset_id": "VIN-9982-ASSET-X",
-  "optimization_status": "HOLD",
-  "financial_metrics": {
-    "accrued_interest_usd": 1250.0,
-    "daily_burn_rate": 45.0,
-    "margin_erosion_pct": 0.88
-  },
-  "validation_state": {
-    "docs_complete": false,
-    "signature_check": "FAILED"
+}    "signature_check": "FAILED"
   },
   "action_log": [
     "INTERVENTION: Financing approval missing. Release gated to prevent capital loss.",
