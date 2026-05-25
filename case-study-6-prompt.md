@@ -34,12 +34,19 @@ You are the master orchestration logic for an automotive capital optimization en
 2. Production Multi-Scenario Test Input
 JSON
 {
+  {
   "AGENT_A_LEDGER": {
     "asset_id": "VIN-9982-ASSET-X",
     "interest_accrued_usd": 1250.00,
     "daily_burn_rate_usd": 45.00,
     "margin_remaining_pct": 0.12
   },
+  "AGENT_B_DOC_STATUS": {
+    "title_transfer_signed": true,
+    "bank_financing_approval": false,
+    "physical_delivery_ready": true
+  }
+}
   "AGENT_B_DOC_STATUS": {
     "title_transfer_signed": true,
     "bank_financing_approval": false,
