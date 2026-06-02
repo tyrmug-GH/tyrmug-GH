@@ -94,9 +94,9 @@ This track represents the formal bridging of my operational expertise into rigid
 
 * [x] **Foundational Calibration:** Google AI Essentials *(Completed: 30-Day Sprint).*
 * [x] **Applied Architectural Velocity:** Concurrent engineering and deployment of this GitHub System Architecture Portfolio (Case Studies 1-8), matching the precise 30-day certification timeline.
-* [ ] **Model Alignment & Cloud Infrastructure:** Google Cloud AI Professional Certification *(Currently 50% Complete).*
+* [ ] **Applied AI Integration & Workflow Automation:** Google AI Professional Certificate *(Currently 50% Complete).*
 * [ ] **Strategic Cloud Architecture:** Google Cloud Digital Leader *(Upcoming).*
-* [ ] **Formal Experiential Validation:** Executive BBA via Asia e University (AeU) APEL-Q track *(Upcoming).*
+* [ ] **Formal Experiential Validation:** Executive BBA via Asia e University (AeU) APEL-Q track *(Upcoming).* e University (AeU) APEL-Q track *(Upcoming).*
 
 *(This matrix tracks the ongoing translation of my Accreditation of Prior Experiential Learning (APEL) into certified cloud architecture capabilities and formal academic credentialing.)*
 
