@@ -69,6 +69,15 @@ This repository directory tracks my end-to-end AI application blueprints across 
 *   **⚙️ TECH EXEC TERMS:** A deterministic exception handling routing engine that intercepts anomalous LLM behavioral outputs and routes structured payloads to human operators via automated webhook triggers.
 *   **💼 REAL WORLD TERMS:** An AI customer service safety valve. When an automated chat system encounters a highly complex customer crisis or a high-stress escalation, the AI recognizes its own limitations, freezes the automated system to protect the brand from bad responses, and hands the conversation smoothly to a human manager.
 
+### 4️⃣ Track Four: Localized Edge & Serverless Event Automation
+
+#### 📄 [Case Study 9] Localized Restaurant Operations & Shift-Handover Engine
+*   **⚙️ SYSTEM & AUTOMATION LOGIC:** An air-gapped, offline text orchestration pipeline utilizing a localized Llama 3.1 (8B) model via Ollama. It ingests asynchronous file drops and uses schema-constrained tabular compilation to map raw text into automated archival sequences.
+*   **💼 BUSINESS REALITY:** A 100% private digital assistant built for family-owned restaurants. It turns messy, handwritten or typed manager shift logs into clean, structured Excel checklists in under 5 seconds. This reclaims over 70 hours of manual labor per month, keeps business data completely private, and eliminates ongoing cloud subscription fees.
+
+#### 📄 [Case Study 10] Serverless Opportunity Capture & Notification Pipeline
+*   **⚙️ SYSTEM & AUTOMATION LOGIC:** A serverless web-scraping engine and notification pipeline orchestrated via GitHub Actions and Python. It executes low-overhead HTTP requests to monitor DOM changes, safely injects secure secrets at runtime, and dispatches instant POST payloads via the Telegram Bot API.
+*   **💼 BUSINESS REALITY:** A zero-latency digital scout. It continuously monitors high-value, hyper-competitive government or vendor registration portals (like the Malaysian eTIMS SPIM) that open without warning. Instead of wasting human capital manually refreshing a page, the system sends an instant mobile alert the exact second a slot opens, capturing opportunities while competitors are asleep.
 ---
 
 ## 💻 Tech & Infrastructure Stack
